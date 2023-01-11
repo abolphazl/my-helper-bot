@@ -26,7 +26,8 @@ def send_proxy(client, message):
     client.send_message(
         chat_id = var.proxy_channel,
         text = var.proxy_message.format(port=port, secret=secret),
-        reply_markup = keyboard
+        reply_markup = keyboard,
+        disable_web_page_preview = True,
     )
 
     message.reply_text("sent.")
