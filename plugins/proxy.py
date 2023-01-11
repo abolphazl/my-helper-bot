@@ -16,7 +16,7 @@ def send_proxy(client, message):
         [
             [
                 InlineKeyboardButton(
-                    "Connect",
+                    'اتصال',
                     url = message.text
                 )
             ]
