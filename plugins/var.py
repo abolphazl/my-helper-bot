@@ -6,5 +6,5 @@ Server: `Unknown`
 Port: `{port}`
 Secret: `{secret}`
 `-----------`
-🌐 [dotPort](https://t.me/dotport)
+🌐 @dotPort
 """
