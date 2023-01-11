@@ -6,5 +6,5 @@ Server: `Unknown`
 Port: `{port}`
 Secret: `{secret}`
 `-----------`
-🌐 @dotPort
+🌐 @dotPort | پروکسی پورت
 """
