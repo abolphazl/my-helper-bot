@@ -5,5 +5,6 @@ proxy_message = """
 Server: `Unknown`
 Port: `{port}`
 Secret: `{secret}`
-@dotport
+`-----------`
+🌐 [dotPort](https://t.me/dotport)
 """
